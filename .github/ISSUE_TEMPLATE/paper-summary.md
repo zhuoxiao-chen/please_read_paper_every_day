@@ -7,17 +7,25 @@ assignees: ''
 
 ---
 
-:star:
-
 ## Summary
-### Link
+### Idea :star: :star: 
 
-### Motivation
+### Difficulty :star: :star:
 
-### Method
+### Writing :star: :star:
 
-### Related Work
+### Paper Link
 
-### Implementation
+### Code Link
 
-### Notes
+## Motivation
+
+## Methodology
+
+## Related Work
+
+## Implementation 
+
+## Experiments 
+
+## Notes
